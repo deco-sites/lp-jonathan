@@ -6,11 +6,18 @@
       "__resolveType": "Header"
     },
     {
-      "__resolveType": "site/sections/ImageWithParagraph.tsx"
+      "__resolveType": "site/sections/ImageWithParagraph.tsx",
+      "placement": "left",
+      "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/lp-jonathan/5d199019-258e-4de8-a60f-bb8b6959bd99/laptop-com-icone-de-codigo-isometrico-de-programa-desenvolvimento-de-software-e-aplicacoes-de-programacao-neon-escuro-(1)-1.png",
+      "description": "Olá, Meu nome é Jonathan\n\nSou desenvolvedor web front-end."
     },
     {
       "__resolveType": "site/sections/ImageWithParagraph.tsx",
-      "placement": "right"
+      "placement": "right",
+      "title": "QUEM SOU",
+      "description": "Meu nome é Jonathan, sou formado em Analise e Desenvolvimento de Sistemas tenho um foco em desenvolvimento front-end com integrações de layouts como e-commerce, landing pages, sites institucionais, blogs entre outros para integrações em web. Atualmente a maior parte dos meus trabalhos estão em institucionais e e-commerce em algumas plataformas como vnda olist e integração de front-end na deco.cx.",
+      "tagline": "Desenvolvedor front-end",
+      "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/lp-jonathan/e7fd52c9-4bba-4f76-8f2a-011521a01c20/person-playing-3d-video-games-device.jpg"
     },
     {
       "__resolveType": "site/sections/BlogPosts.tsx"
